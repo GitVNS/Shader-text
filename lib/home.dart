@@ -75,7 +75,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
             AnimatedBuilder(
                 animation: _radialTransform,
                 builder: (context, _) {
-                  return radialGradientText(
+                  return sweepGradientText(
                       text: 'Sweeping Text',
                       colors: const [
                         Color(0xff7209b7),
@@ -88,7 +88,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
             AnimatedBuilder(
                 animation: _shadowTransform,
                 builder: (context, _) {
-                  return radialGradientText(
+                  return sweepGradientText(
                       text: 'Reveal',
                       colors: const [
                         Color(0xffffd100),
@@ -125,7 +125,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
     );
   }
 
-  Widget radialGradientText({
+  Widget sweepGradientText({
     required String text,
     required List<Color> colors,
     Alignment alignment = Alignment.topCenter,
