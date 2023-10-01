@@ -8,7 +8,7 @@ ShaderMask example on text with awesome animations in Flutter.
 - CurvedAnimation
 
 ## Samples
-![](https://github.com/GitVNS/Shader-text/blob/main/sample/linear%20normal.png)
-![](https://github.com/GitVNS/Shader-text/blob/main/sample/linear%20animated.gif)
-![](https://github.com/GitVNS/Shader-text/blob/main/sample/sweep%20animated.gif)
-![](https://github.com/GitVNS/Shader-text/blob/main/sample/reveal.gif)
+<img src='https://github.com/GitVNS/Shader-text/blob/main/sample/linear%20normal.png' width=480 />
+<img src='https://github.com/GitVNS/Shader-text/blob/main/sample/linear%20animated.gif' width=480 />
+<img src='https://github.com/GitVNS/Shader-text/blob/main/sample/sweep%20animated.gif' width=480 />
+<img src='https://github.com/GitVNS/Shader-text/blob/main/sample/reveal.gif' width=480 />
